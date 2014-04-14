@@ -1,0 +1,5 @@
+[
+  // Reindent when copy / paste
+  { "keys": ["super+v"], "command": "paste_and_indent" },
+  { "keys": ["super+m"], "command": "toggle_minimap" },
+]

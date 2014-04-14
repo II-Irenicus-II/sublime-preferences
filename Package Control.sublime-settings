@@ -1,0 +1,23 @@
+{
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"CoffeeComplete Plus (Autocompletion)",
+		"ColorPicker",
+		"CursorRuler",
+		"DocBlockr",
+		"Emmet",
+		"Sass",
+		"SassBeautify",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-coffee",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-ruby",
+		"SublimeREPL",
+		"Theme - Soda"
+	]
+}
