@@ -1,17 +1,36 @@
 {
 	"caret_style": "wide",
-	"color_scheme": "Packages/User/Solarized (dark) (SL).tmTheme",
+	"color_scheme": "Packages/User/predawn (SL).tmTheme",
 	"draw_indent_guides": true,
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
+	"file_exclude_patterns":
+	[
+		"*.lib",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db"
+	],
+	"findreplace_small": true,
+	"folder_exclude_patterns":
+	[
+		".git",
+		".hg"
+	],
 	"font_face": "Inconsolata",
-	"font_size": 20,
+	"font_options":
+	[
+		"no_round"
+	],
+	"font_size": 18,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"SublimeLinter-html-tidy"
 	],
 	"indent_guide_options":
 	[
@@ -19,9 +38,12 @@
 		"draw_active"
 	],
 	"overlay_scroll_bars": "enabled",
+	"sidebar_small": true,
 	"tab_size": 2,
-	"theme": "Soda Light.sublime-theme",
+	"tabs_small": true,
+	"theme": "predawn.sublime-theme",
 	"translate_tabs_into_spaces": true,
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
 }
